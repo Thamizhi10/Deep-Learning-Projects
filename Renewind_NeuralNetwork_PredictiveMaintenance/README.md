@@ -15,5 +15,3 @@ Neural network design, architecture tuning, regularization, cost-sensitive model
 ## Tech Stack
 Python, TensorFlow, Keras, scikit-learn, pandas, NumPy
 
-## Dataset
-[Note your dataset source here, e.g., "Provided as part of PGP-AIML coursework; original source: <link if known>"]
